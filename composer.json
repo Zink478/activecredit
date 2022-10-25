@@ -11,7 +11,7 @@
       "yii2custom\\": "diembzz/yii2custom/src"
     },
     "files": [
-      "diembzz/yii2custom/src/global.php"
+      "src/global.php"
     ]
   }
 }
